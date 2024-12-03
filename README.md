@@ -9,7 +9,7 @@ A centralized, scalable, and secure platform for elderly care. ElderAid integrat
 ## Deliverables
 - [Deliverable 1: Problem Statement and Feasibility Study](Deliverables/SOEN 6841 - Deliverable 1.pdf)
 - [Deliverable 2: System Design and Risk Assessment](Deliverables/SOEN 6841 - Deliverable 2 - Team 4.pdf)
-- [Final Presentation](Deliverables/FinalPresentation.pptx)
+- [Final Presentation](https://docs.google.com/presentation/d/13Vu6Mb5-liZn5a2hglb27Ooj-TX-PVuEfD_32CUYtbE/edit#slide=id.g31b464c17a6_2_1)
 
 ## Team Contributions
 
